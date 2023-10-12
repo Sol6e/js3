@@ -8,7 +8,7 @@ turbo.js is compatible with all browsers (even IE when not using ES6 template st
 
 ![](https://i.imgur.com/BiiQSzP.png)
 
-### Example 1
+### Example 1rewlklewlellewl;ewlerrle
 
 For this example, which can also be found at the aforementioned website, we are going to perform a simple calculation on a big-ish array of values.
 
